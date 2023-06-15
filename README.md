@@ -1,1 +1,1 @@
-# News-Appliccation
+# News-Application
